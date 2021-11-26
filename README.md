@@ -36,3 +36,10 @@ Prenez votre temps, il est recommandé de lire et suivre un maximum le guide po
 Faites preuve de bon sens, et n'hésitez pas à adapter les ce qui est décrit à votre situation, matériel, usage, besoins, etc...
 Toutefois, une erreur est humaine, si vous avez fait une mauvaise manipulation et votre renard est devenu tout mouillé, suivez attentivement la foire aux questions...
 Sinon : voir le paragraphe du dessus ! Je me ferais un plaisir de vous dépanner en cas de besoin.
+
+**Licence**
+Sujet tabou du monde du développement. (si vous vous posez des questions de propriété intellectuelle, je vous invite à aller vous faire soigner)
+Pour être honnête, à aucun moment je n'ai envie d'assurer quelconque protection sur ma production.
+Je ne vois pas en quoi un travail de recherche de longue haleine, dans lequel le travail principal n'était pas de trouver de quoi écrire, mais plutôt tester, benchmarker (chronométré, je n'en tiens pas toujours compte néanmoins) et analyser les comportements des différentes astuces.
+C'est pourquoi aujourd'hui, ce projet est sous la licence la plus ouverte qu'il puisse être.
+Faites ce que vous voulez avec ce que vous retrouvez ici ;)
