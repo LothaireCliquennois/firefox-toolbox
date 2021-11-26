@@ -28,3 +28,11 @@ Au cas où vous trouveriez une information pertinente, n'hésitez pas à me le f
 Tout ce qui est disponible à cette adresse était originalement compilé par mes soins.
 Néanmoins, au vu du déclin de la base d'utilisateurs de Firefox, j'ai décidé de permettre la collaboration ici.
 Par le biais des pull request depuis GitHub, depuis Twitter (@LothaireLeThug), ou par mail (cliqloth64@gmail.com) vous pourrez ainsi apporter votre pierre à l'édifice (avec ou sans crédits, à vous de voir)
+
+**Disclaimer toujours de rigueur**
+
+Certaines étapes nécessitent de l’attention et de la réflexion. Toutes ne sont pas adaptées à votre usage d’un navigateur.
+Prenez votre temps, il est recommandé de lire et suivre un maximum le guide pour obtenir les meilleurs résultats…
+Faites preuve de bon sens, et n'hésitez pas à adapter les ce qui est décrit à votre situation, matériel, usage, besoins, etc...
+Toutefois, une erreur est humaine, si vous avez fait une mauvaise manipulation et votre renard est devenu tout mouillé, suivez attentivement la foire aux questions...
+Sinon : voir le paragraphe du dessus ! Je me ferais un plaisir de vous dépanner en cas de besoin.
