@@ -67,22 +67,22 @@ Par défaut, Firefox a la fâcheuse tendance de sauvegarder beaucoup trop d’é
 
 Pour ce faire, il convient de suivre ces étapes à la lettre :
 
-    1) Vérifiez que la commande ```browser.cache.memory.enable``` est à ```true``` (changez le cas échéant)
+Vérifiez que la commande ```browser.cache.memory.enable``` est à ```true``` (changez le cas échéant)
     
-    2) Vérifiez que la commande ```browser.cache.disk.enable``` est à ```false``` (changez le cas échéant)
+Vérifiez que la commande ```browser.cache.disk.enable``` est à ```false``` (changez le cas échéant)
     
-    3) Si vous avez changé quoi que ce soit, fermez et réouvrez Firefox.
+Si vous avez changé quoi que ce soit, fermez et réouvrez Firefox.
     
-    4) Vérifiez que la commande ```browser.cache.memory.capacity``` existe.
+Vérifiez que la commande ```browser.cache.memory.capacity``` existe.
     
-La valeur ```-1``` correspond à une gestion automatique par rapport à votre quantité de RAM. 
+*La valeur ```-1``` correspond à une gestion automatique par rapport à votre quantité de RAM. 
 Sur beaucoup de configurations testées, cela équivaut à plus ou moins 32Mo de RAM. 
 C’est beaucoup trop conservatif à mon avis, surtout dans un monde où les onglets ouverts ne se comptent plus sur les doigts d’une main.
-Vous pouvez tester plusieurs valeurs, je recommande dans un premier temps de doubler la valeur à l’entier près.
+Vous pouvez tester plusieurs valeurs, je recommande dans un premier temps de doubler la valeur à l’entier près.*
 
-    5) Une nouvelle fois, fermez et réouvrez Firefox.
+Une nouvelle fois, fermez et réouvrez Firefox.
     
-    6) Si tout s’est bien passé, en visitant la page about:cache, vous devriez voir affiché la quantité que vous avez entré auparavant. A la ligne storage disk location, vérifiez la présence de la mention none.
+Si tout s’est bien passé, en visitant la page ```about:cache```, vous devriez retrouver la quantité que vous avez entré auparavant. A la ligne storage disk location, vérifiez la présence de la mention none.
 Dans certains cas il peut rester également le cache de navigation hors connexion, en fonction de votre configuration de Firefox il peut résider activé. Il convient de passer browser.cache.offline.capacity à 0 et browser.cache.offline.enable à false.
 
 **Chargement des images différencié :**
