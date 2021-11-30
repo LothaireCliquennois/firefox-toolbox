@@ -4,12 +4,19 @@ N’appliquez pas les commandes qui ne vous correspondent pas par rapport à leu
 
 **Réservé à ceux qui ont un accès à internet plutôt lent ou facturées à l’usage :**
 Sur les navigateurs de nos jours, une fonction du nom de prédiction de chargement des pages web est mis en place. Celui-ci permet ainsi de charger plusieurs pages s’affichant dans votre résultat de recherche, de manière à ce qu’une fois que vous cliquiez dessus, le chargement soit quasi instantané.
+
 ```network.prefetch-next``` : passez à ```false```.
+
 ```network.dns.disableprefetch``` : passer à ```true```. 
+
 ```network.predictor.enable-prefetch``` : passer à ```false```
+
 ```network.predictor.enabled``` : passer à ```false```
+
 ```network.predictor.enable-hover-on-ssl``` : passer à ```false```
+
 ```network.predictor.doing-tests``` : passer à ```false```
+
 ```network.predictor.cleaned-up``` : passer à ```true```
 
 **Optimisation de la gestion des requêtes DNS :**
