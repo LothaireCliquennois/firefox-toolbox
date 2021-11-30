@@ -1,11 +1,11 @@
-*Sauf si spécifié les commandes à éditer ou supprimer sont accessibles via about:config dans la barre d’adresses du navigateur. 
+*Sauf si spécifié les commandes à éditer ou supprimer sont accessibles via about:config dans la barre d’adresses du navigateur.* 
 
-Lisez et validez l’avertissement si c’est la première fois que vous visitez cet outil embarqué de Firefox. 
-N’appliquez pas les commandes qui ne vous correspondent pas par rapport à leur description.
-Bien évidemment, vous aurez déjà commencé par configurer les paramètres introduits sur Firefox 67 par défaut de protection renforcée contre le pistage introduites avec Firefox dans les paramètres classiques.
-Beaucoup plus de choses ici ! Le plus complet pour aller encore plus loin sera ici : https://privacytools.io/
-Toutes les commandes pour Firefox ont été testées (ou presque).
-Néanmoins vous devrez être nettement plus attentifs, car cela peut casser la compatibilité avec pas mal de sites.*
+*Lisez et validez l’avertissement si c’est la première fois que vous visitez cet outil embarqué de Firefox.*
+*N’appliquez pas les commandes qui ne vous correspondent pas par rapport à leur description.*
+*Bien évidemment, vous aurez déjà commencé par configurer les paramètres introduits sur Firefox 67 par défaut de protection renforcée contre le pistage introduites avec Firefox* *dans les paramètres classiques.*
+*Beaucoup plus de choses ici ! Le plus complet pour aller encore plus loin sera ici* : https://privacytools.io/
+*Toutes les commandes pour Firefox ont été testées (ou presque).*
+*Néanmoins vous devrez être nettement plus attentifs, car cela peut casser la compatibilité avec pas mal de sites.*
 
 **Désactivation de la télémétrie et les rapports d’erreurs** *collecte de données pour améliorer le navigateur*
 Avec toutes ces commandes, vous effectuez la première partie d’une démarche contre le recueil de données par Mozilla.
