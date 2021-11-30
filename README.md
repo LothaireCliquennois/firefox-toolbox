@@ -43,3 +43,23 @@ Pour être honnête, à aucun moment je n'ai envie d'assurer quelconque protecti
 Je ne vois pas en quoi un travail de recherche de longue haleine, dans lequel le travail principal n'était pas de trouver de quoi écrire, mais plutôt tester, benchmarker (chronométré, je n'en tiens pas toujours compte néanmoins) et analyser les comportements des différentes astuces.
 C'est pourquoi aujourd'hui, ce projet est sous la licence la plus ouverte qu'il puisse être.
 Faites ce que vous voulez avec ce que vous retrouvez ici ;)
+
+**Changelog**
+
+Version 0.8 version initiale partagée sur YouTube en PDF le 23/08/2021.
+Premier jet, étant à mon avis d'un dégueulasse extrême en y repensant.
+*il ne faut pas le dire, mais je l'avais édité sur MS Word*
+
+Version 0.8.1 partagée le 27/08/2021
+Précisions par rapport à layout.css.report_errors 
+Précisions supplémentaires pour Linux dans la FAQ 
+Corrections de diverses coquilles (pas assez, mais une dizaine c'est déjà pas mal)
+Ajout d’infos à propos de WOT et de Bitdefender TrafficLight
+
+------------
+Version 0.9 partagée (première sur GitHub) le 30/11/2021 à 12h30
+Changement de plateforme pour la diffusion (collaboration, modification, plus visuel)
+Usage du markdown pour rendre le texte un peu plus lisible
+Modification de certains passages
+Correction de coquilles
+Ajout d'une information sur la conteneurisation de profils, qui a découlé vers un petit paragraphe car plein d'autres outils derrière.
