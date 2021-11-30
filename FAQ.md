@@ -36,15 +36,18 @@ En dessous de la section nommée "Free Memory", cliquer sur "GC" puis sur "CC" e
 Dans ce cas, le problème peut se situer à plusieurs endroits :
 
     1) Chipset graphique trop peu performant ou pilotes manquant de maturité/pas à jour.
+    
 Une solution temporaire (à utiliser avec parcimonie) pourrait être de désactiver l’accélération graphique matérielle.
 Toutefois mais si votre processeur central n’est pas suffisamment véloce, cela pourrait être encore pire ! 
 
     2) Modules complémentaires inutiles et/ou malicieux. 
-    La meilleure manière d’en avoir le cœur net serait de cliquer sur les trois barres en haut à droite ==> "Aide" ==> "Mode de dépannage". 
+    
+La meilleure manière d’en avoir le cœur net serait de cliquer sur les trois barres en haut à droite ==> "Aide" ==> "Mode de dépannage". 
 Laissez-vous guider pour démarrer Firefox dans un mode où les extensions sont toutes désactivées.
 Si Firefox semble plus performant, c’est qu’il faut faire le tri dans vos extensions.
 
-    3) Profil de navigation problématique. 
+    3) Profil de navigation problématique.
+    
 Il conviendra de le réinitialiser. 
 Pour ce faire, lorsque Firefox est fermé, avec la combinaison Windows + R ==> firefox.exe -P 
 Et sous Linux Alt + F2 (valable pour certains environnements de bureau) ou directement en terminal , tapez firefox -P, 
