@@ -1,4 +1,5 @@
 *Sauf si spécifié les commandes à éditer ou supprimer sont accessibles via about:config dans la barre d’adresses du navigateur. 
+
 Lisez et validez l’avertissement si c’est la première fois que vous visitez cet outil embarqué de Firefox. 
 N’appliquez pas les commandes qui ne vous correspondent pas par rapport à leur description.
 Bien évidemment, vous aurez déjà commencé par configurer les paramètres introduits sur Firefox 67 par défaut de protection renforcée contre le pistage introduites avec Firefox dans les paramètres classiques.
