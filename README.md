@@ -4,7 +4,7 @@ Sur ce dépôt, vous pourrez trouver tout ce qu'il vous faut pour régler au mie
 Ces ressources, initialement accessibles via YouTube uniquement et un lien vers un repo pouilleux, ne me convenaient pas en l'état...
 Je me suis dit qu'il convenait de les diffuser plus globalement, et de permettre la collaboration !
 Au cas où vous trouveriez une information pertinente, n'hésitez pas à me le faire savoir ;)
-
+Ping Pong YT - GitHub : youtube.com/watch?v=xcVJCa58OeM
 
 
 **Au sommaire de ce dossier :** 
