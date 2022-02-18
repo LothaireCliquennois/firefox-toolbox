@@ -130,8 +130,11 @@ Une catégorie "accélération graphique" vous indiquera ce qui est accéléré,
 La première ligne du tableau intitulée "composition" doit contenir "WebRender"
 
 Deux arguments fonctionnant en tandem ici : 
+
 ```gfx.webrender.all``` réglé à ```false``` : WebRender est totalement désactivé.
+
 ```gfx.webrender.all``` réglé à true et ```gfx.webrender.software``` à ```false``` : WebRender est activé (accélération GPU).
+
 ```gfx.webrender.all``` réglé à true et ```gfx.webrender.software``` à ```true``` : WebRender est activé (usage du CPU uniquement)
 
 
