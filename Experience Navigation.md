@@ -118,3 +118,20 @@ Créez une nouvelle "valeur nombre" si elle n’existe pas déjà nommée ```ngl
 ```browser.sessionstore.resume_from_crash``` est la ligne responsable de cette fonctionnalité du navigateur.
 Elle permet normalement de restaurer tous les onglets dans le cas où Firefox planterait.
 Il suffit de la passer à ```false``` pour désactiver cette sécurité, permettant de libérer quelques ressources. 
+
+**Généralisation de l'accélération par le processeur graphique**
+
+Depuis Firefox 92, un nouveau moteur de rendu est disponible dans Firefox. Il est sensé être activé par défaut.
+Avec l'expérience, j'ai eu l'occasion de voir que ce n'était pas toujours le cas, surtout sur les machines dont le matériel est ancien, ou tout simplement une installation de Firefox datant d'avant la sortie de la version 92.
+Cette astuce vous permettra donc d'utiliser l'accélération de votre GPU (qu'il soit intégré, ou dédié) pour le maximum de scénarios possible...
+
+La page ```about:support``` vous permet de savoir si WebRender, le nom de ce moteur est activé sur votre profil Firefox.
+Une catégorie "accélération graphique" vous indiquera ce qui est accéléré, et ce qui ne l'est pas.
+La première ligne du tableau intitulée "composition" doit contenir "WebRender"
+
+Deux arguments fonctionnant en tandem ici : 
+```gfx.webrender.all``` réglé à ```false``` : WebRender est totalement désactivé.
+```gfx.webrender.all``` réglé à true et ```gfx.webrender.software``` à ```false``` : WebRender est activé (accélération GPU).
+```gfx.webrender.all``` réglé à true et ```gfx.webrender.software``` à ```true``` : WebRender est activé (usage du CPU uniquement)
+
+
